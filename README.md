@@ -11,3 +11,7 @@
 
 # Jenkins
 * [pipeline template 모음](./jenkins/template)
+
+
+# 참고
+* 틀린부분, 내용 추가에 대한 pull Request, issue 대환영입니다. ^^
