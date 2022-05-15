@@ -7,4 +7,4 @@
 
 
 # JavaScript
-* [vscode 디버깅 환경 구축](./javascript/debug_env_setting/README.md)
+* [vscode 디버깅 환경 구축](./javascript/debug_env_setting)
