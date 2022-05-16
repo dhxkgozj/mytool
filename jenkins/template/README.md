@@ -2,11 +2,16 @@
 Devops를 하며 자주 사용 하는 pipeline template을 모아놓았습니다.
 
 ```
-function.goovy
+function.groovy
 pipeline에서 사용하기 위한 goovy function template
 ```
 
 
 ```
-WindowsNodePublish.goovy
+WindowsNodePublish.groovy
+Windows Agent 기준 Bat 파일을 사용해 node 16.15버전 기준으로
+yarn install
+yarn build
+yarn publish
+를 수행해 NPM에 Publish 하는 예제 입니다.
 ```
